@@ -1,0 +1,3 @@
+H:/ First CLion thing/cmake-build-debug/CMakeFiles/_First_CLion_thing.dir
+H:/ First CLion thing/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/ First CLion thing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
